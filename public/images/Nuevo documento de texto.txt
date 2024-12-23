@@ -1,0 +1,10 @@
+$regiones = [
+        ['top' => '70%', 'left' => '50%', 'label' => 'Camaná', 'route' => '/region/camana', 'temp' => 23, 'hum' => 45],
+        ['top' => '55%', 'left' => '78%', 'label' => 'Arequipa', 'route' => '/region/arequipa', 'temp' => 20, 'hum' => 50],
+        ['top' => '35%', 'left' => '44.5%', 'label' => 'Condesuyos', 'route' => '/region/condesuyos', 'temp' => 25, 'hum' => 40],
+        ['top' => '37%', 'left' => '26%', 'label' => 'Caravelí', 'route' => '/region/caraveli', 'temp' => 22, 'hum' => 35],
+        ['top' => '19%', 'left' => '63.8%', 'label' => 'Castilla', 'route' => '/region/castilla', 'temp' => 21, 'hum' => 38],
+        ['top' => '25%', 'left' => '78%', 'label' => 'Caylloma', 'route' => '/region/caylloma', 'temp' => 19, 'hum' => 42],
+        ['top' => '81%', 'left' => '76%', 'label' => 'Islay', 'route' => '/region/islay', 'temp' => 26, 'hum' => 37],
+        ['top' => '5%', 'left' => '50%', 'label' => 'La Unión', 'route' => '/region/launion', 'temp' => 18, 'hum' => 30],
+    ];
